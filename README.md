@@ -4,6 +4,7 @@
 [![Documentation Status](https://readthedocs.org/projects/pychess/badge/?version=latest)](http://pychess.readthedocs.org/en/latest/?badge=latest)
 
 PyChess - a free chess client for Linux/Windows
+We are studying this for opensource project!
 
 The mission of PyChess is to create a free, pleasant, [PyGObject](https://pygobject.readthedocs.io/) based chess game for the
 Linux desktop that does everything you require from an advanced chess client.
